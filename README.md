@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Youssef Ben Hammouda!
 
-Welcome to my GitHub profile! I'm passionate about embedded systems, audio processing, and AI technologies. Here you'll find some of the projects I've been working on.
+Welcome to my GitHub profile! I'm passionate about automation,IT support, embedded systems, audio processing, and AI technologies. Here you'll find some of the projects I've been working on.
 
 ## 🚀 Projects
 
