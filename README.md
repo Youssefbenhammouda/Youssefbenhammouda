@@ -10,12 +10,14 @@ Welcome to my GitHub profile! I'm passionate about automation,IT support, embedd
 
 A utility for managing API rate limits when interacting with OpenAI's services. Ensures compliance with usage policies while maintaining optimal performance.
 
-### 🔌 BenCommunication Micropython Server & Client
+### 📊 pydantic-gsheets
 
-- **[BenCommunication-Micropython-Server](https://github.com/Youssefbenhammouda/BenCommunication-Micropython-Server)**
-- **[BenCommunication-Micropython-client](https://github.com/Youssefbenhammouda/BenCommunication-Micropython-client)**
+* **[pydantic-gsheets GitHub](https://github.com/Youssefbenhammouda/pydantic-gsheets)**
+* **[Documentation](https://youssefbenhammouda.github.io/pydantic-gsheets/)**
+* **[Blog Post](https://youssef.benhammouda.ma/blog/pydantic-gsheets)**
 
-A lightweight communication protocol implemented in Micropython, designed for efficient data exchange between embedded devices. The server and client modules facilitate seamless communication in IoT applications.
+An experimental Python package that bridges **Google Sheets** and **Pydantic**. It lets you treat Sheets like a lightweight database by reading, writing, and validating data directly with Pydantic BaseModels. Ideal for quick prototypes, small projects, or teams that want the simplicity of spreadsheets with the safety of typed models.
+
 
 ### 🎧 Bensound - Extract Loud Parts from Audio
 
