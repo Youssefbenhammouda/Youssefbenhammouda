@@ -14,7 +14,7 @@ A utility for managing API rate limits when interacting with OpenAI's services. 
 
 * **[pydantic-gsheets GitHub](https://github.com/Youssefbenhammouda/pydantic-gsheets)**
 * **[Documentation](https://youssefbenhammouda.github.io/pydantic-gsheets/)**
-* **[Blog Post](https://youssef.benhammouda.ma/blog/pydantic-gsheets)**
+
 
 An experimental Python package that bridges **Google Sheets** and **Pydantic**. It lets you treat Sheets like a lightweight database by reading, writing, and validating data directly with Pydantic BaseModels. Ideal for quick prototypes, small projects, or teams that want the simplicity of spreadsheets with the safety of typed models.
 
